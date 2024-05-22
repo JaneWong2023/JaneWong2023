@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jane.
-- 👀 I’m interested in web programming ,UI/UX design.
-- 🌱 I’m currently learning information technology in Oulu.
+- 👀 I’m interested in software programming ,UI/UX design.
+- 🌱 I’m currently learning information technology in Finland.
 - 💞️ I’m looking to collaborate on web development program.
 - 📫 How to reach me : ZhiyingHuang2023@outlook.com
 - 😄 Pronouns: ...
