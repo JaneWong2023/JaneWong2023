@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Jane.
-- 👀 I’m interested in software programming ,UI/UX design.
-- 🌱 I’m currently learning information technology in Finland.
-- 💞️ I’m looking to collaborate on web development program.
-- 📫 How to reach me : ZhiyingHuang2023@outlook.com
-
+- 👋 Hi, I’m @Jane!
+- 👀 I’m passionate about software programming and UI/UX design.
+- 🌱 Currently, I’m a 2nd-year Information Technology student studying in Oulu, Finland.
+- 💞️ I’m looking to collaborate on software development projects and contribute to innovative solutions.
+- 📫 Feel free to reach me at: jane.z.h@outlook.com
 
 <!---
 JaneWong2023/JaneWong2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
